@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "Yumi",
+      "email": "yumi@mail.com",
+      "cpf": "24123452795",
+      "profession": "Streamer",
+      "address": null
+    },
+    {
+      "name": "Sloth",
+      "email": "Sloth@mail.com",
+      "cpf": "41346622574",
+      "address": null,
+      "profession": "Develop"
+    },
+    {
+      "name": "Miuga",
+      "email": "muiga@mail.com",
+      "cpf": "55511512559",
+      "profession": "Flea",
+      "address": {
+        "cep": "40715-532",
+        "city": "Salvador",
+        "district": "Rio Sena",
+        "street": "Rua Moura Brasil"
+      }
+    }
+  ]
+}
